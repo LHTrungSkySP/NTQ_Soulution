@@ -1,0 +1,12 @@
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\bin\Debug\DAL_vippro2.dll
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\bin\Debug\DAL_vippro2.pdb
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\obj\Debug\DAL_vippro2.csproj.AssemblyReference.cache
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\obj\Debug\DAL_vippro2.csproj.CoreCompileInputs.cache
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\obj\Debug\DAL_vippro2.dll
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\obj\Debug\DAL_vippro2.pdb
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\bin\Debug\DAL_vippro2.dll.config
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\bin\Debug\EntityFramework.dll
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\bin\Debug\EntityFramework.SqlServer.dll
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\bin\Debug\EntityFramework.xml
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\bin\Debug\EntityFramework.SqlServer.xml
+D:\NTQ\Project_GĐ1\NTQ_Soulution\BO\DAL_vippro2\obj\Debug\DAL_vippro2.csproj.CopyComplete
